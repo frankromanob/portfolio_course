@@ -17,7 +17,7 @@ const LandingSection = () => (
     isDarkBackground
     backgroundColor="#2A4365"
   >
-  <Avatar name="Test picture" src="https://avatars.githubusercontent.com/u/46932778?v=4" size="2xl" />
+  <Avatar name="Lilu" src="https://avatars.githubusercontent.com/u/46932778?v=4" size="2xl" />
   <VStack spacing={4} align="center">
     <Heading size ="1" >
       {greeting}
